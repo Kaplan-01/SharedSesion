@@ -1,5 +1,5 @@
 # Shared Preferences
-****
+** Una aplicacion de inicio de sesion. **
 
 >Muestra
 
